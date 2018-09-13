@@ -1,0 +1,15 @@
+state={
+	id=772
+	name="STATE_772"
+	provinces={
+		3283 3510 6462 9570 
+	}
+	history = 
+	{
+	owner = POL
+	add_core_of = GER
+	add_core_of = POL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=42
+	name="STATE_42"
+	resources={
+		steel=59.000
+		aluminium=14.000
+	}
+
+	history={
+		owner = FRA
+		add_core_of = GER
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+
+		}
+
+	}
+
+	provinces={
+		563 3558 9575 11547 
+	}
+	manpower=3027739
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

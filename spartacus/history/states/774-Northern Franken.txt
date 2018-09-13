@@ -1,0 +1,13 @@
+state={
+	id=774
+	name="STATE_774"
+	provinces={
+		3474 6421 6594 11417 13116 
+	}
+	history={
+		owner = BAV
+		add_core_of = BAV
+		}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

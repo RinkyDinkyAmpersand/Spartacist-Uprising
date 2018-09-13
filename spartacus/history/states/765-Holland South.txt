@@ -1,0 +1,15 @@
+state={
+	state_category = city
+	id=765
+	name="STATE_765"
+	
+	history={
+		owner = HOL
+		add_core_of = GER
+		}
+	provinces={
+		3444 9522 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
