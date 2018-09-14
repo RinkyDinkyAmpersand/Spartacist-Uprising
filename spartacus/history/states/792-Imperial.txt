@@ -1,0 +1,19 @@
+state={
+	id=792
+	name="STATE_792"
+	provinces={
+		823 1562 4727 7517 7986 12374 
+	}
+	history={
+		owner = MEX
+		buildings = {
+			
+		}
+		add_core_of = MEX
+		add_core_of = USA
+		
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

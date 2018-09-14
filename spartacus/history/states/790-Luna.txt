@@ -1,0 +1,19 @@
+state={
+	id=790
+	name="STATE_790"
+	provinces={
+		5044 10914 12791 
+	}
+	history={
+		owner = MEX
+		buildings = {
+			
+		}
+		add_core_of = MEX
+		add_core_of = USA
+		
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

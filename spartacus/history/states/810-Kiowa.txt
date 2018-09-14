@@ -1,0 +1,14 @@
+state={
+	id=810
+	name="STATE_810"
+	provinces={
+		4740 10340 
+	}
+	history={
+		owner = CSA
+		add_core_of = CSA
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
