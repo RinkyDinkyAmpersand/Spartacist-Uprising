@@ -1053,16 +1053,7 @@ units = {
 		ship = { name = "Naïade" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA } } }				
 		ship = { name = "Galathée" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA } } }				
 	}				
-	navy = {				
-		name = "Sous-Marins Force du Nord"			
-		base = 575
-		location = 575 # Dunkerque			
-		# 16e Division des Sous-Marins
-		ship = { name = "Orphée" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "630 Series" } } }
-		ship = { name = "Amazone" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "630 Series" } } }
-		ship = { name = "La Sybille" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "630 Series" } } }
-		ship = { name = "Antiope" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FRA version_name = "630 Series" } } }
-	}				
+		
 
 	### NORTH AFRICA ###				
 	navy = {				
