@@ -937,8 +937,8 @@ units = {
 	### METRPOLITAN FRANCE ###
 	navy = {				
 		name = "1ère Région Navale"			
-		base = 575
-		location = 575 # Dunkerque			
+		base = 3552
+		location = 3552 # Dunkerque			
 		# 8e Division des Contre-Torpilleurs
 		ship = { name = "Le Terrible" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = FRA } } }
 		ship = { name = "L'Audacieux" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = FRA } } }

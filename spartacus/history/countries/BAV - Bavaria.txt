@@ -1,4 +1,4 @@
-capital = 52
+﻿capital = 52
 
 #oob = "Brak oob"
 
@@ -35,7 +35,7 @@ set_technology = {
 	complete_national_focus = construction_effort
 	complete_national_focus = production_effort
 	
-	oob = 
+
 	set_technology = {
 		fighter1 = 1
 		gw_artillery = 1
@@ -72,8 +72,8 @@ set_technology = {
 		dispersed_industry = 1
 		dispersed_industry2 = 1
 	}
-}
 
+}
 
 set_politics = {
 
@@ -102,7 +102,7 @@ set_politics = {
 
 		parties = {
 			democratic = { 
-				popularity = 8
+				popularity = 7
 			}
 
 			fascism = {
@@ -110,7 +110,7 @@ set_politics = {
 			}
 			
 			communism = {
-				popularity = 92
+				popularity = 93
 			}
 		}
 		
