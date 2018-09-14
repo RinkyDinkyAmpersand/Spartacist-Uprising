@@ -1,4 +1,3 @@
-
 supply_area={
 	id=291
 	name="SUPPLYAREA_291"
