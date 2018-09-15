@@ -525,7 +525,7 @@ units = {
 
 	}
 
-	
+}	
 
 
 ##### Wojska Lotnicze i Obrony Powietrzne #####
