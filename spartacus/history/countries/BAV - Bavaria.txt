@@ -72,10 +72,7 @@ set_technology = {
 		dispersed_industry = 1
 		dispersed_industry2 = 1
 	}
-<<<<<<< HEAD
 
-=======
->>>>>>> master
 
 }
 
