@@ -1,0 +1,29 @@
+
+state={
+	id=382
+	name="STATE_382"
+	resources={
+		oil=14.000
+	}
+
+	history={
+		owner = SSA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = SSA
+		victory_points = {
+			1827 5 
+		}
+
+	}
+
+	provinces={
+		868 1658 1827 3869 6887 7684 7999 9792 10535 10588 12627 
+	}
+	manpower=1035790
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,18 @@
+state={
+	id=798
+	name="STATE_798"
+	provinces={
+		1690 1832 4838 10693 
+	}
+	history={
+		owner = CAN
+		buildings = {
+			
+		}
+		add_core_of = CAN
+		
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

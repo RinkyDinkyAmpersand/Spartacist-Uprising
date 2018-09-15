@@ -1,0 +1,14 @@
+state={
+	id=796
+	name="STATE_796"
+	provinces={
+		1414 4347 7721 10305 10625 
+	}
+	history={
+		owner = CAL
+		add_core_of = CAL
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

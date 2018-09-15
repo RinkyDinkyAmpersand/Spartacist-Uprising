@@ -114,5 +114,10 @@ MAN = "countries/Manchukou.txt"
 
 ##### SANITARIUSZ TO DEBIL
 
-BAV = "countries/Bavaria"
-RHI = "countries/Rhineland"
+BAV = "countries/Bavaria.txt"
+RHI = "countries/Rhineland.txt"
+CSA = "countries/Confederacy.txt"
+SSA = "countries/SocialistStates.txt"
+CAL = "countries/California.txt"
+TEX = "countries/Texas.txt"
+SSL = 'countries/Southern Slovakia.txt"

@@ -1,0 +1,14 @@
+state={
+	id=811
+	name="STATE_811"
+	provinces={
+		3917 6892 6984 9758 9786 
+	}
+	history={
+		owner = USA
+		add_core_of = USA
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

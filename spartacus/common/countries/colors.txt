@@ -1,5 +1,20 @@
 #reload countrycolors
-
+TEX = {
+	color = rgb { 23  64  79 }
+	color_ui = rgb { 23  64  79 }
+}
+CAL = {
+	color = rgb { 224  203  103 }
+	color_ui = rgb { 224  203  103 }
+}
+CSA = {
+	color = rgb { 195 195 195 }
+	color_ui = rgb { 195 195 195 }
+}
+SSA = {
+	color = rgb { 215  0  0 }
+	color_ui = rgb { 215  0  0 }
+}
 GER = {
 	color = rgb { 108 43 49 }
 	color_ui = rgb { 108 43 49 }
@@ -254,8 +269,8 @@ YUN = {
 	color_ui = rgb { 222 247 198 }
 }
 USA = {
-	color = rgb { 20 133 237 }
-	color_ui = rgb { 87 160 255 }
+	color = rgb { 12 87 156 }
+	color_ui = rgb { 12 87 156 }
 }
 MON = {
 	#color = HSV { 0.1 0.15 0.4 }
@@ -538,3 +553,8 @@ BAV = {
 	color = rgb { 0 153 255 }
 	color_ui = rgb { 0 153 255 }
 }
+SSL = {
+	color = rgb { 255  204  153 }
+	color_ui = rgb { 255  204  153 }
+}
+

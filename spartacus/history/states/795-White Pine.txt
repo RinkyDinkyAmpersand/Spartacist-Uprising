@@ -1,0 +1,14 @@
+state={
+	id=795
+	name="STATE_795"
+	provinces={
+		7756 7879 10591 
+	}
+	history={
+		owner = SSA
+		add_core_of = SSA
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
