@@ -1,0 +1,32 @@
+
+state={
+	id=377
+	name="STATE_377"
+	resources={
+		steel=20.000
+		oil=5.000
+		aluminium=8.000
+	}
+
+	history={
+		owner = SSA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 2
+
+		}
+		add_core_of = SSA
+		victory_points = {
+			853 3 
+		}
+
+	}
+
+	provinces={
+		850 6897 7821 10573 12765 
+	}
+	manpower=435572
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

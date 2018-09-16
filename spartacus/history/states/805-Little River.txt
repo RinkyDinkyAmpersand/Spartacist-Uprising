@@ -1,0 +1,15 @@
+state={
+	id=805
+	name="STATE_805"
+	provinces={
+		1503 7485 7543 10355 12458 12489 12778 
+	}
+	history={
+		owner = TEX
+		add_core_of = TEX
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	state_category=town
+}

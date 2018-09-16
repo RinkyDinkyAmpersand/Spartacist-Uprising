@@ -8,8 +8,8 @@ state={
 	history = 
 	{
 	
-	owner = LIT
-	add_core_of = LIT
+	owner = LAT
+	add_core_of = LAT
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

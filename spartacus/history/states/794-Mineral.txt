@@ -1,0 +1,15 @@
+state={
+	id=794
+	name="STATE_794"
+	provinces={
+		4521 4799 4816 12399 12425 
+	}
+	history={
+		owner = CAL
+		add_core_of = CAL
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	state_category=city
+}

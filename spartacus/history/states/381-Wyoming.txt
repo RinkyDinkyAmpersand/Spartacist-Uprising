@@ -1,0 +1,22 @@
+
+state={
+	id=381
+	name="STATE_381"
+
+	history={
+		owner = SSA
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = SSA
+
+	}
+
+	provinces={
+		1815 7688 7814 7888 10640 10711 12561 12633 12651 
+	}
+	manpower=225564
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

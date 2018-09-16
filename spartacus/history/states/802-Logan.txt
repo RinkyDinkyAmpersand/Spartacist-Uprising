@@ -1,0 +1,15 @@
+state={
+	id=802
+	name="STATE_802"
+	provinces={
+		1809 4723 4760 7780 11772 12570 12642 
+	}
+	history={
+		owner = USA
+		add_core_of = USA
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

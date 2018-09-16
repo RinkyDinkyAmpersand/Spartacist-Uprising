@@ -1,0 +1,17 @@
+state={
+	id=818
+	name="STATE_818"
+	provinces={
+		672 6718 6733 9649 11633 11664 
+	}
+	history={
+		owner = MOU
+		buildings = {
+
+		}
+		add_core_of = MOU
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
