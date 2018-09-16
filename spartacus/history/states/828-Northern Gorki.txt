@@ -1,0 +1,17 @@
+state={
+	id=828
+	name="STATE_828"
+	provinces={
+		12 256 270 368 3245 3261 3349 6149 9291 9358 9368 11134 11275 11340 
+	}
+	history={
+		owner = RUS
+		buildings = {
+
+		}
+		add_core_of = RUS
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

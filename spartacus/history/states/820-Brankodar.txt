@@ -1,0 +1,17 @@
+state={
+	id=820
+	name="STATE_820"
+	provinces={
+		714 748 6753 9688 9726 9742 11678 11696 
+	}
+	history={
+		owner = KUB
+		buildings = {
+
+		}
+		add_core_of = KUB
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
