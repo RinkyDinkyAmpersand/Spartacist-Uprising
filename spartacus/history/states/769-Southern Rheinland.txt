@@ -1,0 +1,16 @@
+state={
+	id=769
+	name="STATE_769"
+	provinces={
+		3423 
+	}
+	history = 
+	{
+	owner = RHI
+	add_core_of = GER
+	add_core_of = RHI
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

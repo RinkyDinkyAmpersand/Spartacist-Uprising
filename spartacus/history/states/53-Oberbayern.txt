@@ -1,0 +1,22 @@
+
+state={
+	id=53
+	name="STATE_53"
+
+	history={
+		owner = BAV
+		buildings = {
+			infrastructure = 6
+
+		}
+		add_core_of = BAV
+
+	}
+
+	provinces={
+		532 571 586 3299 3541 3571 11404 11497 
+	}
+	manpower=1453365
+	buildings_max_level_factor=1.000
+	state_category=city
+}

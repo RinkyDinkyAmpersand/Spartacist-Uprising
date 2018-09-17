@@ -1,0 +1,27 @@
+state={
+	id=832
+	name="STATE_832"
+	
+	history={
+		owner = FRA
+	victory_points = {
+		12299 10 
+		}
+
+	buildings = {
+		infrastructure = 10
+		industrial_complex = 1
+		12299 = {
+			naval_base = 8
+			coastal_bunker = 3
+
+			}
+	}
+}
+
+	provinces={
+		12113 12299 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

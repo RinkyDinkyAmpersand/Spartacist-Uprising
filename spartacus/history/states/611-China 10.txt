@@ -1,0 +1,28 @@
+
+state={
+	id=611
+	name="STATE_611"
+
+	history={
+		owner = MEN
+		add_core_of = MEN
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			11752 3 
+		}
+
+	}
+
+	provinces={
+		828 1489 1590 4495 4612 7545 7674 10397 11752 
+	}
+	manpower=1470000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

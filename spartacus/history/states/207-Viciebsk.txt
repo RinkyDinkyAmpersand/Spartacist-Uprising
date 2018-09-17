@@ -1,0 +1,27 @@
+
+state={
+	id=207
+	name="STATE_207"
+
+	history={
+		owner = FRU
+		victory_points = {
+			11241 5 
+		}
+		buildings = {
+			infrastructure = 5
+			air_base = 5
+
+		}
+		add_core_of = FRU
+		add_core_of = BLR
+
+	}
+
+	provinces={
+		3331 6220 6371 9241 11220 11241 
+	}
+	manpower=1217854
+	buildings_max_level_factor=1.000
+	state_category=town
+}

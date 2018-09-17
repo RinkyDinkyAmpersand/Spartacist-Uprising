@@ -1,0 +1,15 @@
+state={
+	id=781
+	name="STATE_781"
+	provinces={
+		402 524 12562 
+	}
+	history = 
+	{
+	owner = POL
+	add_core_of = POL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

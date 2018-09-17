@@ -1,0 +1,27 @@
+
+state={
+	id=387
+	name="STATE_387"
+	resources={
+		steel=18.000
+		chromium=1.000
+		tungsten=18.000
+	}
+
+	history={
+		owner = SSA
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = SSA
+
+	}
+
+	provinces={
+		1736 1789 1854 3781 4778 6742 7779 7845 9616 9695 10556 10602 10672 12124 12535 12607 12673 12676 
+	}
+	manpower=445031
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

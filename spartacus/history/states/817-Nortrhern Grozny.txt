@@ -1,0 +1,17 @@
+state={
+	id=817
+	name="STATE_817"
+	provinces={
+		683 700 712 728 6702 6730 6748 11632 
+	}
+	history={
+		owner = CAU
+		buildings = {
+
+		}
+		add_core_of = CAU
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

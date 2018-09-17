@@ -1,0 +1,17 @@
+state={
+	id=824
+	name="STATE_824"
+	provinces={
+		475 642 10262 12163 12233 12474 13008 
+	}
+	history={
+		owner = BAS
+		buildings = {
+
+		}
+		add_core_of = BAS
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

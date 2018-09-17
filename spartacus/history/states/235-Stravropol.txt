@@ -1,0 +1,26 @@
+
+state={
+	id=235
+	name="STATE_235"
+	resources={
+		chromium=14.000
+	}
+
+	history={
+		owner = DON
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+
+		}
+		add_core_of = DON
+
+	}
+
+	provinces={
+		731 3748 6750 9705 9707 9722 11661 11690 11693 11694 11727 
+	}
+	manpower=1316516
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
