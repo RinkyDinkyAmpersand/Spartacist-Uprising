@@ -8,8 +8,9 @@ state={
 		owner = UKR
 		buildings = {
 			}
-		}
+		
 		add_core_of = UKR
+		}
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

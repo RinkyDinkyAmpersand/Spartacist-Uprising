@@ -10,7 +10,7 @@ state={
 		buildings = {
 			
 			}
-		}
+		
 		add_core_of = COL
 		add_core_of = ELS
 	}
