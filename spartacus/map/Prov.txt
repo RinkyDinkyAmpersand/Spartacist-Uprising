@@ -1,0 +1,12 @@
+
+193 185 205 # 
+6 213 247 #
+67 69 193 # Hadithah
+121 87 56 # Mosul
+116 210 89 # Kirkuk
+138 104 131 # Al-Basrah
+135 90 88 # Kuwait
+148 251 231 # Irbil
+246 14 28 # Tel Aviv
+16;118;152 # Jeruzalem
+195;125;6 # Amman

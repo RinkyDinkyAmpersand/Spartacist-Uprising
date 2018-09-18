@@ -1,0 +1,17 @@
+state={
+	id=821
+	name="STATE_821"
+	provinces={
+		520 3503 3517 6541 6575 9530 11474 11484 
+	}
+	history={
+		owner = DON
+		buildings = {
+
+		}
+		add_core_of = DON
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

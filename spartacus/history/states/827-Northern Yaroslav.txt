@@ -1,0 +1,17 @@
+state={
+	id=827
+	name="STATE_827"
+	provinces={
+		2 62 97 164 3056 3077 3091 3190 6056 6077 6143 6167 6215 9122 9159 9188 11039 11099 11166 13128 
+	}
+	history={
+		owner = RUS
+		buildings = {
+
+		}
+		add_core_of = RUS
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

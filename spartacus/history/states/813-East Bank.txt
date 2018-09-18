@@ -1,0 +1,16 @@
+state={
+	id=813
+	name="STATE_813"
+	provinces={
+		453 472 486 9463 9479 11452 
+	}
+		history = {
+		owner = UKR
+		buildings = {
+			}
+		}
+		add_core_of = UKR
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

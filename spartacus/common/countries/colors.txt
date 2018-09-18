@@ -1,4 +1,56 @@
 #reload countrycolors
+FAR = {
+	color = rgb { 225  72  108 }
+	color_ui = rgb { 225  72  108 }
+}
+RUS = {
+	color = rgb { 86  139  27 }
+	color_ui = rgb { 86  139  27 }
+}
+FRU = {
+	color = rgb { 64  64  64 }
+	color_ui = rgb { 64  64  64 }
+}
+GRU = {
+	color = rgb { 13  128  94 }
+	color_ui = rgb { 13  128  94 }
+}
+CRI = {
+	color = rgb { 172  175  175 }
+	color_ui = rgb { 172  175  175 }
+}
+BAS = {
+	color = rgb { 161  63  170 }
+	color_ui = rgb { 161  63  170 }
+}
+KOK = {
+	color = rgb { 132  153  81 }
+	color_ui = rgb { 132  153  81 }
+}
+ALA = {
+	color = rgb { 119  173  168 }
+	color_ui = rgb { 119  173  168 }
+}
+DON = {
+	color = rgb { 129  211  153 }
+	color_ui = rgb { 129  211  153 }
+}
+MOU	= {
+	color = rgb { 173  175  40 }
+	color_ui = rgb { 173  175  40 }
+}
+TRA	= {
+	color = rgb { 175  156  116 }
+	color_ui = rgb { 175  156  116	 }
+}
+KUB	= {
+	color = rgb { 153  149  175 }
+	color_ui = rgb { 153  149  175 }
+}
+CAU	 = {
+	color = rgb { 175  78  61 }
+	color_ui = rgb { 175  78  61 }
+}
 TEX = {
 	color = rgb { 23  64  79 }
 	color_ui = rgb { 23  64  79 }
@@ -14,6 +66,10 @@ CSA = {
 SSA = {
 	color = rgb { 215  0  0 }
 	color_ui = rgb { 215  0  0 }
+}
+RHI = {
+	color = rgb { 12  77  129 }
+	color_ui = rgb { 12  77  129 }
 }
 GER = {
 	color = rgb { 108 43 49 }
@@ -49,8 +105,8 @@ CZE = {	color = rgb { 54 167 156 }
 		color_ui = rgb { 70 217 203 }
 }
 POL = {
-	color = rgb { 197 92 106 }
-	color_ui = rgb { 255 120 138 }
+	color = rgb { 204 113 124 }
+	color_ui = rgb { 204 113 124 }
 }
 AUS = {
 	color = rgb { 66 79 91 }
@@ -65,8 +121,8 @@ EST = {
 	color_ui = rgb { 99 204 254 }
 }
 LAT = {
-	color = rgb { 75 77 186 }
-	color_ui = rgb { 124 125 184 }
+	color = rgb { 58 90 139 }
+	color_ui = rgb { 58 90 139 }
 }
 SPR = {
 	color = rgb { 242 205 94 }

@@ -1,0 +1,17 @@
+state={
+	id=819
+	name="STATE_819"
+	provinces={
+		717 735 3698 3717 3720 6692 6721 6736 6738 9663 9674 9691 9694 9696 11617 11647 11681 
+	}
+	history={
+		owner = KUB
+		buildings = {
+
+		}
+		add_core_of = KUB
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
