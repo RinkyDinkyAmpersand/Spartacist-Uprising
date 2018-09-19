@@ -641,3 +641,27 @@ UOI = {
 	color = rgb { 141  127  141 }
 	color_ui = rgb { 141  127  141 }
 }
+BAN = {
+	color = rgb { 95  95  164 }
+	color_ui = rgb {95  95  164 }
+}
+HYD = {
+	color = rgb { 129  147  147 }
+	color_ui = rgb {129  147  147 }
+}
+GUJ = {
+	color = rgb { 133  98  97 }
+	color_ui = rgb { 133 98 97 }
+}
+BST = {
+	color = rgb { 133  155  139 }
+	color_ui = rgb { 133  155  139 }
+}
+NAG = {
+	color = rgb { 108  137  147 }
+	color_ui = rgb { 108  137  147 }
+}
+BIH = {
+	color = rgb { 188  144  117 }
+	color_ui = rgb { 188  144  117 }
+}

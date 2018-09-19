@@ -1,0 +1,16 @@
+state={
+	id=849
+	name="STATE_849"
+	
+	history = {
+	
+	owner = NEP
+	add_core_of = NEP
+	}
+	
+	provinces={
+		1541 1983 7064 7334 8082 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
