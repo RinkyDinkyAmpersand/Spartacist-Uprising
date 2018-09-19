@@ -6,10 +6,10 @@ state={
 	}
 
 	history={
-		owner = CHI
+		owner = HNN
 		add_core_of = CHI
 		add_core_of = PRC
-		buildings = {
+ 	add_core_of = HNN		buildings = {
 			infrastructure = 5
 			arms_factory = 1
 

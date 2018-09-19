@@ -1421,4 +1421,11 @@
  RUS_neutrality:0 "Russian Empire"
  FRU_fascism:0 "Russian Millitary State"
  GRU_neutrality:0 "Green Ukraine"
- 
+ SIC_neutrality:0 "Sichuan"
+ HNN_neutrality:0 "Hunan"
+ BUR_neutrality:0 "Burma"
+ MUG_neutrality:0 "Mughal Empire"
+ UOI_neutrality:0 "Union of India"
+ WUK_neutrality:0 "West Ukraine"
+ CRO_neutrality:0 "Croatia"
+ BOS_neutrality:0 "Bosnia"

@@ -440,8 +440,8 @@ ICE = {
 }
 
 UKR = {
-	color = rgb { 0  80  230 }
-	color_ui = rgb { 0  80  230 }	
+	color = rgb { 153  97  98 }
+	color_ui = rgb { 153  97  98  }	
 }
 
 AZR = {
@@ -613,4 +613,31 @@ SSL = {
 	color = rgb { 255  204  153 }
 	color_ui = rgb { 255  204  153 }
 }
-
+WUK = {
+	color = rgb { 197  234  243 }
+	color_ui = rgb { 197  234  243 }
+}
+SIC = {
+	color = rgb { 150  170  145 }
+	color_ui = rgb { 150  170  145 }
+}
+HNN = {
+	color = rgb { 140  140  133 }
+	color_ui = rgb { 140  140  133 }
+}
+BOS = {
+	color = rgb { 255  204  153 }
+	color_ui = rgb { 255  204  153 }
+}
+MUG = {
+	color = rgb { 113  119  102 }
+	color_ui = rgb { 113  119  102 }
+}
+BUR = {
+	color = rgb { 132  152  138 }
+	color_ui = rgb { 132  152  138 }
+}
+UOI = {
+	color = rgb { 141  127  141 }
+	color_ui = rgb { 141  127  141 }
+}

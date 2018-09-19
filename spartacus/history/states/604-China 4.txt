@@ -1,3 +1,4 @@
+
 state={
 	id=604
 	name="STATE_604"
@@ -14,12 +15,11 @@ state={
 			industrial_complex = 2
 
 		}
-		
 
 	}
 
 	provinces={
-		4914 4964 7940 8018 8037 12899 
+		7940 8018 
 	}
 	manpower=1196100
 	buildings_max_level_factor=1.000
