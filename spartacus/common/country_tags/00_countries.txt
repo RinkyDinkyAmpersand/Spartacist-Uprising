@@ -264,4 +264,10 @@ KUB = "countries/Kuban.txt"
 MOU = "countries/Mountain.txt"
 
 SIC = "countries/Sichuan.txt"
+
 HNN = "countries/Hunan.txt"
+
+BUR = "countries/Burma.txt"
+
+MUG = "countries/MughalEmpire.txt"
+UOI = "countries/UnionofIndia.txt"
