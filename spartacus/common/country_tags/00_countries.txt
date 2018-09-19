@@ -264,3 +264,4 @@ KUB = "countries/Kuban.txt"
 MOU = "countries/Mountain.txt"
 
 SIC = "countries/Sichuan.txt"
+HNN = "countries/Hunan.txt"
