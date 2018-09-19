@@ -1,0 +1,17 @@
+state={
+	id=840
+	name="STATE_840"
+	provinces={
+		935 6857 
+	}
+	history={
+		owner = YUG
+		buildings = {
+
+		}
+		add_core_of = 	BUL
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

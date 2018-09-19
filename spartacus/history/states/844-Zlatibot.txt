@@ -1,0 +1,18 @@
+state={
+	id=844
+	name="STATE_844"
+	provinces={
+		937 982 3922 6913 6940 
+	}
+	history={
+		owner = YUG
+		buildings = {
+
+		}
+		add_core_of = MNT
+		add_core_of = YUG
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,17 @@
+state={
+	id=839
+	name="STATE_839"
+	provinces={
+		9771 
+	}
+	history={
+		owner = YUG
+		buildings = {
+
+		}
+		add_core_of = BUL
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
