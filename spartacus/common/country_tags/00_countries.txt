@@ -270,4 +270,21 @@ HNN = "countries/Hunan.txt"
 BUR = "countries/Burma.txt"
 
 MUG = "countries/MughalEmpire.txt"
+
 UOI = "countries/UnionofIndia.txt"
+
+WUK = "countries/West Ukraine.txt"
+
+BOS = "countries/Bosnia.txt"
+
+BAN = "countries/Bangladesh.txt"
+
+HYD = "countries/Hyderabad.txt"
+
+GUJ = "countries/Gujarat.txt"
+
+BST = "countries/Bastar.txt"
+
+NAG = "countries/Nagpur.txt"
+
+BIH = "countries/Bihar.txt"

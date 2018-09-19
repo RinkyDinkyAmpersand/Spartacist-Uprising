@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = UKR
+		owner = WUK
 		victory_points = {
 			525 25 
 		}
@@ -20,6 +20,7 @@ state={
 
 		}
 		add_core_of = UKR
+		add_core_of = WUK
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 4
@@ -32,7 +33,7 @@ state={
 	}
 
 	provinces={
-		441 489 504 525 550 582 3494 3543 6497 9465 9466 9543 9568 11490 11557 
+		441 504 525 550 3494 3543 6497 9465 9466 9568 11490 
 	}
 	manpower=2495352
 	buildings_max_level_factor=1.000
