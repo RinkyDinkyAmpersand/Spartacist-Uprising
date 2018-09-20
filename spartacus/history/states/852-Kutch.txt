@@ -1,0 +1,20 @@
+state={
+	id=852
+	name="STATE_852"
+	provinces={
+		1061 1147 1190 4003 7020 
+	}
+	history={
+		owner = GUJ
+		add_core_of = GUJ
+	
+		buildings = {
+
+			}
+
+		}
+
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

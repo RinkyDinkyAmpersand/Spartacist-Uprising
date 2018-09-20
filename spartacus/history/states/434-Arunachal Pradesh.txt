@@ -10,8 +10,8 @@ state={
 	}
 
 	history={
-		owner = BAN
-		add_core_of = BAN
+		owner = ASA
+		add_core_of = ASA
 		buildings = {
 			infrastructure = 1
 		}

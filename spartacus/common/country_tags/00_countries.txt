@@ -288,3 +288,9 @@ BST = "countries/Bastar.txt"
 NAG = "countries/Nagpur.txt"
 
 BIH = "countries/Bihar.txt"
+
+SKH = "countries/Sikh.txt"
+
+ORI = "countries/Orissa.txt"
+
+ASA = "countries/Assam.txt"

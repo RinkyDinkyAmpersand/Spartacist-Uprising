@@ -630,28 +630,28 @@ BOS = {
 	color_ui = rgb { 255  204  153 }
 }
 MUG = {
-	color = rgb { 113  119  102 }
-	color_ui = rgb { 113  119  102 }
+	color = rgb { 100  138  83 }
+	color_ui = rgb { 100  138  83 }
 }
 BUR = {
 	color = rgb { 132  152  138 }
 	color_ui = rgb { 132  152  138 }
 }
 UOI = {
-	color = rgb { 141  127  141 }
-	color_ui = rgb { 141  127  141 }
+	color = rgb { 210  180  151 }
+	color_ui = rgb { 210  180  151 }
 }
 BAN = {
 	color = rgb { 95  95  164 }
 	color_ui = rgb {95  95  164 }
 }
 HYD = {
-	color = rgb { 129  147  147 }
-	color_ui = rgb {129  147  147 }
+	color = rgb { 111  173  176 }
+	color_ui = rgb { 111  173  176 }
 }
 GUJ = {
-	color = rgb { 133  98  97 }
-	color_ui = rgb { 133 98 97 }
+	color = rgb { 128  191  125 }
+	color_ui = rgb { 128  191  125 }
 }
 BST = {
 	color = rgb { 133  155  139 }
@@ -664,4 +664,16 @@ NAG = {
 BIH = {
 	color = rgb { 188  144  117 }
 	color_ui = rgb { 188  144  117 }
+}
+ORI = {
+	color = rgb { 199  194  148 }
+	color_ui = rgb { 199  194  148 }
+}
+ASA = {
+	color = rgb { 125  81  82 }
+	color_ui = rgb { 125  81  82 }
+}
+SKH = {
+	color = rgb { 206  166  175 }
+	color_ui = rgb { 206  166  175 }
 }

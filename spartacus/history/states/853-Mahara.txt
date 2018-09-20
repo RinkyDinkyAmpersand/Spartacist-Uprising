@@ -1,0 +1,18 @@
+state={
+	id=853
+	name="STATE_853"
+	provinces={
+		4072 4187 7060 7150 7177 7205 10019 11993 
+	}
+	history={
+		owner = UOI
+		add_core_of = UOI
+	
+		buildings = {
+
+			}
+
+		}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
