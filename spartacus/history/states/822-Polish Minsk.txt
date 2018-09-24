@@ -1,15 +1,18 @@
 state={
 	id=822
 	name="STATE_822"
-	provinces={
-		277 6340 9236 11216 11370 
-	}
+
 	history={
 		owner = POL
 		buildings = {
-		
+
 		}
 		add_core_of = POL
+
+	}
+
+	provinces={
+		277 6340 9236 11216 11370 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

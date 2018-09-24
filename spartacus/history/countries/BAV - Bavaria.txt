@@ -79,45 +79,35 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 8
+			popularity = 50
 		}
 
 		fascism = {
-			popularity = 0
+			popularity = 5
 		}
 		
 		communism = {
-			popularity = 92
+			popularity = 35
+		}
+		neutarlity = {
+			popularity = 10
 		}
 	}
 	
-	ruling_party = communism
+	ruling_party = democratic
 	last_election = "1932.11.27"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
-1939.1.1 = {
-	set_politics = {
-
-		parties = {
-			democratic = { 
-				popularity = 7
-			}
-
-			fascism = {
-				popularity = 0
-			}
-			
-			communism = {
-				popularity = 93
-			}
-		}
+create_country_leader = {
+	name = "Kaiser Rupprecht"
+	desc = ""
+	picture = "Rupprecht.dds"
+	expire = "1965.1.1"
+	ideology = democratic
+	traits = {
 		
-		ruling_party = communism
-		last_election = "1939.4.2"
-		election_frequency = 48
-		elections_allowed = yes
 	}
 }
 

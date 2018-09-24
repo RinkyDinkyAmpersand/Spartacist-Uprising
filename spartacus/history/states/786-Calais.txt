@@ -1,13 +1,15 @@
 state={
 	id=786
 	name="STATE_786"
-	provinces={
-		575 3536 9500 11548 
+
+	history={
+		owner = FRA
+		add_core_of = FRA
+
 	}
-	history = 
-	{
-	owner = FRA
-	add_core_of = FRA
+
+	provinces={
+		3476 3536 6504 9500 11548 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

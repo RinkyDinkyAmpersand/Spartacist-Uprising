@@ -1,0 +1,22 @@
+state={
+	id=865
+	name="STATE_865"
+	provinces={
+		3959 9909 
+	}
+	history={
+		owner = FRA
+		add_core_of = FRA
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 4
+			9909 = {
+				naval_base = 2
+
+			}
+
+		}
+		}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

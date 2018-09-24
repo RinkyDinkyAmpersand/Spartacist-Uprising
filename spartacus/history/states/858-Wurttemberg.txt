@@ -1,0 +1,14 @@
+state={
+	id=858
+	name="STATE_858"
+	provinces={
+		519 3690 6555 6581 6934 9545 9655 11499 13126 
+	}
+	history={
+		owner = SGF
+		add_core_of = SGF
+		add_core_of = GER
+		}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

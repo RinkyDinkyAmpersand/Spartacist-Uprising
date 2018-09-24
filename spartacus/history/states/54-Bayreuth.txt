@@ -4,7 +4,10 @@ state={
 	name="STATE_54"
 
 	history={
-		owner = BAV
+		owner = SGF
+		add_core_of = GER
+		add_core_of = SGF
+		add_core_of = BAV
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 2
@@ -13,7 +16,6 @@ state={
 		victory_points = {
 			11544 10 
 		}
-		add_core_of = BAV
 		1939.1.1 = {
 			buildings = {
 				air_base = 3

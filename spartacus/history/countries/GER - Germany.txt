@@ -64,20 +64,23 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 20
+			popularity = 22
 		}
 
 		fascism = {
-			popularity = 10
+			popularity = 18
 			banned = yes 
 		}
 		
 		communism = {
-			popularity = 70
+			popularity = 20
+		}
+		neutrality = {
+			popularity = 40
 		}
 	}
 	
-	ruling_party = communism
+	ruling_party = neutrality
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -115,11 +118,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Ernst Thälmann"
+	name = "Kaiser Wilhelm II"
 	desc = ""
-	picture = "Ernst.dds"
+	picture = "Wilhelm.dds"
 	expire = "1965.1.1"
-	ideology = stalinism
+	ideology = centrism
 	traits = {
 		
 	}
