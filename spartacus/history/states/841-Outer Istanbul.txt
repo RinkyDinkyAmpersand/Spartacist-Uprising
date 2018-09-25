@@ -1,0 +1,18 @@
+state={
+	id=841
+	name="STATE_841"
+	provinces={
+		922 6895 
+	}
+	history={
+	owner = GRE
+	buildings = {
+
+	}
+	add_core_of = GRE
+	add_core_of = TUR
+
+}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

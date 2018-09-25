@@ -5,10 +5,11 @@ state={
 		6480 9423 9435 9576 
 	}
 	history={
-		owner = UKR
+		owner = WUK
 		buildings = {
 	}
-	add_core_of = UKR
+		add_core_of = UKR
+		add_core_of = WUK
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

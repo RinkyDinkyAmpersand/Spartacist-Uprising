@@ -5,7 +5,9 @@ state={
 		707 3688 
 	}
 	history={
-		owner = BAV
+		owner = SGF
+		add_core_of = GER
+		add_core_of = SGF
 		add_core_of = BAV
 		}
 	manpower=0

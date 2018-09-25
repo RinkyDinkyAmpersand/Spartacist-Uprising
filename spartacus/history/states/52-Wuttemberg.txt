@@ -7,7 +7,10 @@ state={
 	}
 
 	history={
-		owner = BAV
+		owner = SGF
+		add_core_of = GER
+		add_core_of = SGF
+		add_core_of = BAV
 		victory_points = {
 			692 30 
 		}
@@ -18,7 +21,7 @@ state={
 			air_base = 6
 
 		}
-		add_core_of = BAV
+		
 		1939.1.1 = {
 			buildings = {
 				air_base = 10

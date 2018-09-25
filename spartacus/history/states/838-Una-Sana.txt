@@ -1,0 +1,18 @@
+state={
+	id=838
+	name="STATE_838"
+	provinces={
+		3985 6614 6619 6983 9586 9588 9591 11574 
+	}
+	history={
+		owner = CRO
+		buildings = {
+
+		}
+		add_core_of = CRO
+		add_core_of = YUG
+		add_core_of = BOS
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

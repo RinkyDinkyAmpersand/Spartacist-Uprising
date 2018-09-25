@@ -1,0 +1,23 @@
+
+state={
+	id=441
+	name="STATE_441"
+
+	history={
+		owner = SKH
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = PAK
+		add_core_of = SKH
+
+	}
+
+	provinces={
+		1129 1910 2041 2076 2084 4558 5042 7106 7273 7316 8005 10821 10905 12754 12763 12884 
+	}
+	manpower=3539500
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

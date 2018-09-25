@@ -99,27 +99,14 @@ set_politics = {
 	elections_allowed = no
 }
 
-1939.1.1 = {
-	set_politics = {
-
-		parties = {
-			democratic = { 
-				popularity = 8
-			}
-
-			fascism = {
-				popularity = 0
-			}
-			
-			communism = {
-				popularity = 92
-			}
-		}
+create_country_leader = {
+	name = "Muhamed Hadžiefendić"
+	desc = ""
+	picture = "Muhamed.dds"
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
 		
-		ruling_party = communism
-		last_election = "1939.4.2"
-		election_frequency = 48
-		elections_allowed = yes
 	}
 }
 

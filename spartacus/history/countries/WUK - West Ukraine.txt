@@ -78,7 +78,7 @@ set_politics = {
 
 	parties = {
 	neutrality = { 
-			popularity = 10
+			popularity = 65
 		}
 		democratic = { 
 			popularity = 10
@@ -89,39 +89,27 @@ set_politics = {
 		}
 		
 		communism = {
-			popularity = 70
+			popularity = 15
 		}
 	}
 	
-	ruling_party = communism
+	ruling_party = neutrality
 	last_election = "1932.11.27"
 	election_frequency = 48
 	elections_allowed = no
 }
-
-1939.1.1 = {
-	set_politics = {
-
-		parties = {
-			democratic = { 
-				popularity = 8
-			}
-
-			fascism = {
-				popularity = 0
-			}
-			
-			communism = {
-				popularity = 92
-			}
-		}
+create_country_leader = {
+	name = "Symon Petliura"
+	desc = ""
+	picture = "Symon.dds"
+	expire = "1953.3.1"
+	ideology = centrism
+	traits = {
 		
-		ruling_party = communism
-		last_election = "1939.4.2"
-		election_frequency = 48
-		elections_allowed = yes
 	}
 }
+
+
 
 set_convoys = 0
 set_stability = 0.75

@@ -1,0 +1,14 @@
+state={
+	id=868
+	name="STATE_868"
+	provinces={
+		3641 9600 
+	}
+	history={
+		owner = SWI
+		add_core_of = ITA
+		add_core_of = SWI
+		}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

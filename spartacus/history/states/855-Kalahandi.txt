@@ -1,0 +1,18 @@
+state={
+	id=855
+	name="STATE_855"
+	provinces={
+		1579 7574 9946 10469 
+	}
+	history={
+		owner = ORI
+		add_core_of = ORI
+	
+		buildings = {
+
+			}
+
+		}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

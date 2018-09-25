@@ -1,0 +1,14 @@
+state={
+	id=861
+	name="STATE_861"
+	provinces={
+		9309 9363 9403 11318 
+	}
+	history = 
+	{
+	owner = HOL
+	add_core_of = HOL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,18 @@
+state={
+	id=846
+	name="STATE_846"
+	
+	history={
+
+	owner = TIB
+
+	add_core_of = TIB
+	
+	}
+
+	provinces={
+		4914 4964 8037 12899 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

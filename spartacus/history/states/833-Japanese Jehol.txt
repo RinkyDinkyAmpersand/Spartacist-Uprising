@@ -1,0 +1,14 @@
+state={
+	id=833
+	name="STATE_833"
+	provinces={
+		934 3828 3934 4514 6852 7633 9927 10426 11855 
+	}
+	history = 
+	{
+	owner = JAP
+	add_core_of = MEN
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

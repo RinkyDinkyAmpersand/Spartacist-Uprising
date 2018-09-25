@@ -1,0 +1,14 @@
+state={
+	id=859
+	name="STATE_859"
+	provinces={
+		6537 9418 9444 11407 
+	}
+	history = 
+	{
+	owner = BEL
+	add_core_of = BEL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
