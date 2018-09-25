@@ -1,0 +1,1292 @@
+focus_tree = {
+	id = german_focus
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = GER
+		}
+	}
+	default = no
+	focus = {
+		id = GER_army_1
+		icon = GFX_focus_prc_infiltration
+		cost = 10
+		x = 7
+		y = 0
+
+	}
+	focus = {
+		id = GER_political_1
+		icon = GFX_focus_ger_revive_kaiserreich
+		cost = 10
+		x = 29
+		y = 0
+
+	}
+	focus = {
+		id = GER_trade_1
+		icon = GFX_focus_generic_the_giant_wakes
+		cost = 5
+		x = 22
+		y = 8
+
+	}
+	focus = {
+		id = GER_trade_19
+		icon = GFX_goal_tfv_saf_anti_colonialist_crusade
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_16
+		}
+		mutually_exclusive = {
+			focus = GER_trade_17
+		}
+		x = 14
+		y = 15
+
+	}
+	focus = {
+		id = GER_industry_1
+		icon = GFX_focus_generic_industry_2
+		cost = 10
+		x = 32
+		y = 6
+
+	}
+	focus = {
+		id = GER_expansion_1
+		icon = GFX_focus_ger_oppose_hitler
+		cost = 10
+		x = 50
+		y = 0
+
+	}
+	focus = {
+		id = GER_army_2
+		icon = GFX_goal_generic_position_armies
+		cost = 10
+		prerequisite = {
+			focus = GER_army_1
+		}
+		x = 0
+		y = 1
+		relative_position_id = GER_army_1
+
+	}
+	focus = {
+		id = GER_army_3
+		icon = GFX_focus_generic_military_mission
+		cost = 10
+		prerequisite = {
+			focus = GER_army_2
+		}
+		x = 4
+		y = 2
+
+	}
+	focus = {
+		id = GER_army_4
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = GER_army_3
+		}
+		x = 2
+		y = 3
+
+	}
+	focus = {
+		id = GER_army_5
+		icon = GFX_goal_rhineland
+		cost = 10
+		prerequisite = {
+			focus = GER_army_3
+		}
+		x = 4
+		y = 3
+
+	}
+	focus = {
+		id = GER_army_6
+		icon = GFX_goal_generic_army_artillery2
+		cost = 10
+		prerequisite = {
+			focus = GER_army_5
+		}
+		mutually_exclusive = {
+			focus = GER_army_10
+		}
+		x = 5
+		y = 4
+
+	}
+	focus = {
+		id = GER_army_23
+		icon = GFX_goal_generic_army_artillery
+		cost = 10
+		prerequisite = {
+			focus = GER_army_6
+		}
+		mutually_exclusive = {
+			focus = GER_army_26
+		}
+		x = 1
+		y = 5
+
+	}
+	focus = {
+		id = GER_army_26
+		icon = GFX_goal_generic_axis_build_infantry
+		cost = 10
+		prerequisite = {
+			focus = GER_army_6
+		}
+		mutually_exclusive = {
+			focus = GER_army_23
+		}
+		x = 3
+		y = 5
+
+	}
+	focus = {
+		id = GER_army_7
+		icon = GFX_goal_generic_air_doctrine
+		cost = 10
+		prerequisite = {
+			focus = GER_army_2
+		}
+		x = 7
+		y = 3
+
+	}
+	focus = {
+		id = GER_army_8
+		icon = GFX_focus_generic_home_defense
+		cost = 10
+		prerequisite = {
+			focus = GER_army_2
+		}
+		x = 10
+		y = 2
+
+	}
+	focus = {
+		id = GER_army_9
+		icon = GFX_goal_generic_army_motorized
+		cost = 10
+		prerequisite = {
+			focus = GER_army_8
+		}
+		x = 10
+		y = 3
+
+	}
+	focus = {
+		id = GER_army_10
+		icon = GFX_focus_generic_license_production
+		cost = 10
+		prerequisite = {
+			focus = GER_army_9
+		}
+		mutually_exclusive = {
+			focus = GER_army_6
+		}
+		x = 9
+		y = 4
+
+	}
+	focus = {
+		id = GER_army_11
+		icon = GFX_goal_generic_air_fighter2
+		cost = 10
+		prerequisite = {
+			focus = GER_army_6
+			focus = GER_army_10
+		}
+		mutually_exclusive = {
+			focus = GER_army_14
+		}
+		x = 6
+		y = 5
+
+	}
+	focus = {
+		id = GER_army_14
+		icon = GFX_goal_generic_air_naval_bomber
+		cost = 10
+		prerequisite = {
+			focus = GER_army_10
+			focus = GER_army_6
+		}
+		mutually_exclusive = {
+			focus = GER_army_11
+		}
+		x = 8
+		y = 5
+
+	}
+	focus = {
+		id = GER_army_17
+		icon = GFX_focus_generic_combined_arms
+		cost = 10
+		prerequisite = {
+			focus = GER_army_10
+		}
+		mutually_exclusive = {
+			focus = GER_army_20
+		}
+		x = 11
+		y = 5
+
+	}
+	focus = {
+		id = GER_army_18
+		icon = GFX_goal_generic_army_tanks
+		cost = 10
+		prerequisite = {
+			focus = GER_army_17
+		}
+		x = 11
+		y = 6
+
+	}
+	focus = {
+		id = GER_army_19
+		icon = GFX_focus_generic_tank_production
+		cost = 10
+		prerequisite = {
+			focus = GER_army_18
+		}
+		x = 11
+		y = 7
+
+	}
+	focus = {
+		id = GER_army_20
+		icon = GFX_focus_generic_army_tanks2
+		cost = 10
+		prerequisite = {
+			focus = GER_army_10
+		}
+		mutually_exclusive = {
+			focus = GER_army_17
+		}
+		x = 13
+		y = 5
+
+	}
+	focus = {
+		id = GER_army_21
+		icon = GFX_goal_continuous_armor_production
+		cost = 10
+		prerequisite = {
+			focus = GER_army_20
+		}
+		x = 13
+		y = 6
+
+	}
+	focus = {
+		id = GER_army_22
+		icon = GFX_goal_tfv_saf_anti_colonialist_crusade
+		cost = 10
+		prerequisite = {
+			focus = GER_army_21
+		}
+		x = 13
+		y = 7
+
+	}
+	focus = {
+		id = GER_trade_2
+		icon = GFX_focus_generic_treaty
+		cost = 1
+		prerequisite = {
+			focus = GER_trade_1
+		}
+		x = 20
+		y = 9
+
+	}
+	focus = {
+		id = GER_political_5
+		icon = GFX_focus_rom_parties_end
+		cost = 10
+		prerequisite = {
+			focus = GER_political_1
+		}
+		x = 24
+		y = 1
+
+	}
+	focus = {
+		id = GER_political_6
+		icon = GFX_goal_generic_political_pressure
+		cost = 10
+		prerequisite = {
+			focus = GER_political_5
+		}
+		mutually_exclusive = {
+			focus = GER_political_11
+		}
+		x = 22
+		y = 2
+
+	}
+	focus = {
+		id = GER_political_7
+		icon = GFX_focus_CZE_german_puppet
+		cost = 10
+		prerequisite = {
+			focus = GER_political_6
+		}
+		prerequisite = {
+			focus = GER_political_6
+		}
+		x = 22
+		y = 3
+
+	}
+	focus = {
+		id = GER_political_8
+		icon = GFX_focus_generic_strike_at_democracy2
+		cost = 10
+		prerequisite = {
+			focus = GER_political_7
+		}
+		x = 21
+		y = 4
+
+	}
+	focus = {
+		id = GER_political_9
+		icon = GFX_focus_generic_self_management
+		cost = 10
+		prerequisite = {
+			focus = GER_political_7
+		}
+		x = 23
+		y = 4
+
+	}
+	focus = {
+		id = GER_political_10
+		icon = GFX_focus_ger_return_of_the_kaiser
+		cost = 10
+		prerequisite = {
+			focus = GER_political_9
+		}
+		prerequisite = {
+			focus = GER_political_8
+		}
+		x = 22
+		y = 5
+
+	}
+	focus = {
+		id = GER_trade_3
+		icon = GFX_focus_generic_treaty
+		cost = 1
+		prerequisite = {
+			focus = GER_trade_1
+		}
+		x = 24
+		y = 9
+
+	}
+	focus = {
+		id = GER_trade_4
+		icon = GFX_goal_generic_alliance
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_3
+		}
+		prerequisite = {
+			focus = GER_trade_2
+		}
+		x = 22
+		y = 10
+
+	}
+	focus = {
+		id = GER_trade_8
+		icon = GFX_goal_generic_dangerous_deal
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_4
+		}
+		x = 19
+		y = 12
+
+	}
+	focus = {
+		id = GER_trade_15
+		icon = GFX_focus_man_claim_the_mandate_of_heaven
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_8
+		}
+		mutually_exclusive = {
+			focus = GER_trade_21
+		}
+		x = 12
+		y = 13
+
+	}
+	focus = {
+		id = GER_trade_12
+		icon = GFX_goal_generic_trade
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_8
+		}
+		x = 16
+		y = 13
+
+	}
+	focus = {
+		id = GER_trade_7
+		icon = GFX_goal_generic_dangerous_deal
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_4
+		}
+		x = 22
+		y = 12
+
+	}
+	focus = {
+		id = GER_trade_5
+		icon = GFX_focus_renounce_the_treaty_of_trianon
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_4
+		}
+		x = 24
+		y = 11
+
+	}
+	focus = {
+		id = GER_trade_6
+		icon = GFX_goal_generic_dangerous_deal
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_4
+		}
+		x = 25
+		y = 12
+
+	}
+	focus = {
+		id = GER_political_11
+		icon = GFX_goal_generic_propaganda
+		cost = 10
+		prerequisite = {
+			focus = GER_political_5
+		}
+		mutually_exclusive = {
+			focus = GER_political_6
+		}
+		x = 26
+		y = 2
+
+	}
+	focus = {
+		id = GER_political_12
+		icon = GFX_focus_generic_little_entente
+		cost = 10
+		prerequisite = {
+			focus = GER_political_11
+		}
+		prerequisite = {
+			focus = GER_political_11
+		}
+		x = 26
+		y = 3
+
+	}
+	focus = {
+		id = GER_political_13
+		icon = GFX_goal_generic_dangerous_deal
+		cost = 10
+		prerequisite = {
+			focus = GER_political_12
+		}
+		x = 26
+		y = 4
+
+	}
+	focus = {
+		id = GER_political_14
+		icon = GFX_focus_rom_handle_king
+		cost = 10
+		prerequisite = {
+			focus = GER_political_13
+		}
+		x = 26
+		y = 5
+
+	}
+	focus = {
+		id = GER_political_2
+		icon = GFX_goal_generic_wolf_pack
+		cost = 10
+		prerequisite = {
+			focus = GER_political_1
+		}
+		x = 29
+		y = 1
+
+	}
+	focus = {
+		id = GER_political_3
+		icon = GFX_focus_prc_infiltration
+		cost = 10
+		prerequisite = {
+			focus = GER_political_2
+		}
+		mutually_exclusive = {
+			focus = GER_political_4
+		}
+		x = 28
+		y = 2
+
+	}
+	focus = {
+		id = GER_industry_9
+		icon = GFX_goal_generic_construct_infrastructure
+		cost = 10
+		prerequisite = {
+			focus = GER_industry_1
+		}
+		x = 29
+		y = 7
+
+	}
+	focus = {
+		id = GER_industry_10
+		icon = GFX_goal_generic_construct_civ_factory
+		cost = 10
+		prerequisite = {
+			focus = GER_industry_9
+		}
+		x = 29
+		y = 8
+
+	}
+	focus = {
+		id = GER_industry_11
+		icon = GFX_goal_generic_production
+		cost = 10
+		prerequisite = {
+			focus = GER_industry_10
+		}
+		x = 29
+		y = 9
+
+	}
+	focus = {
+		id = GER_political_4
+		icon = GFX_focus_generic_military_mission
+		cost = 10
+		prerequisite = {
+			focus = GER_political_2
+		}
+		mutually_exclusive = {
+			focus = GER_political_3
+		}
+		x = 30
+		y = 2
+
+	}
+	focus = {
+		id = GER_political_15
+		icon = GFX_focus_ger_great_red_menace
+		cost = 10
+		prerequisite = {
+			focus = GER_political_1
+		}
+		x = 35
+		y = 1
+
+	}
+	focus = {
+		id = GER_political_16
+		icon = GFX_focus_ger_bulwark_against_bolshevism
+		cost = 10
+		prerequisite = {
+			focus = GER_political_15
+		}
+		mutually_exclusive = {
+			focus = GER_political_17
+			focus = GER_political_17
+			focus = GER_political_17
+			focus = GER_political_18
+		}
+		x = 32
+		y = 2
+
+	}
+	focus = {
+		id = GER_industry_2
+		icon = GFX_goal_generic_production2
+		cost = 10
+		prerequisite = {
+			focus = GER_industry_1
+		}
+		x = 32
+		y = 7
+
+	}
+	focus = {
+		id = GER_industry_3
+		icon = GFX_goal_generic_consumer_goods
+		cost = 10
+		prerequisite = {
+			focus = GER_industry_2
+		}
+		x = 32
+		y = 8
+
+	}
+	focus = {
+		id = GER_industry_4
+		icon = GFX_focus_research
+		cost = 10
+		prerequisite = {
+			focus = GER_industry_3
+		}
+		x = 32
+		y = 9
+
+	}
+	focus = {
+		id = GER_political_17
+		icon = GFX_goal_generic_dangerous_deal
+		cost = 10
+		prerequisite = {
+			focus = GER_political_15
+		}
+		mutually_exclusive = {
+			focus = GER_political_16
+			focus = GER_political_16
+			focus = GER_political_18
+			focus = GER_political_18
+			focus = GER_political_16
+		}
+		x = 35
+		y = 2
+
+	}
+	focus = {
+		id = GER_industry_5
+		icon = GFX_goal_generic_construct_mil_factory
+		cost = 10
+		prerequisite = {
+			focus = GER_industry_1
+		}
+		x = 35
+		y = 7
+
+	}
+	focus = {
+		id = GER_industry_6
+		icon = GFX_goal_generic_political_pressure
+		cost = 10
+		prerequisite = {
+			focus = GER_industry_5
+		}
+		x = 35
+		y = 8
+
+	}
+	focus = {
+		id = GER_industry_7
+		icon = GFX_goal_generic_construct_civilian
+		cost = 10
+		prerequisite = {
+			focus = GER_industry_6
+		}
+		x = 35
+		y = 9
+
+	}
+	focus = {
+		id = GER_industry_12
+		icon = GFX_focus_generic_the_giant_wakes
+		cost = 10
+		prerequisite = {
+			focus = GER_industry_11
+			focus = GER_industry_7
+		}
+		mutually_exclusive = {
+			focus = GER_industry_13
+		}
+		x = 31
+		y = 10
+
+	}
+	focus = {
+		id = GER_industry_14
+		icon = GFX_focus_research2
+		cost = 10
+		prerequisite = {
+			focus = GER_industry_12
+		}
+		x = 29
+		y = 11
+
+	}
+	focus = {
+		id = GER_industry_13
+		icon = GFX_focus_generic_industry_3
+		cost = 10
+		prerequisite = {
+			focus = GER_industry_7
+			focus = GER_industry_11
+		}
+		mutually_exclusive = {
+			focus = GER_industry_12
+		}
+		x = 33
+		y = 10
+
+	}
+	focus = {
+		id = GER_industry_8
+		icon = GFX_focus_rocketry
+		cost = 10
+		prerequisite = {
+			focus = GER_industry_7
+		}
+		x = 37
+		y = 10
+
+	}
+	focus = {
+		id = GER_political_18
+		icon = GFX_goal_generic_war_with_comintern
+		cost = 10
+		prerequisite = {
+			focus = GER_political_15
+		}
+		mutually_exclusive = {
+			focus = GER_political_17
+			focus = GER_political_17
+			focus = GER_political_16
+		}
+		x = 38
+		y = 2
+
+	}
+	focus = {
+		id = GER_expansion_14
+		icon = GFX_focus_GER_africa
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_1
+		}
+		x = 43
+		y = 1
+
+	}
+	focus = {
+		id = GER_expansion_15
+		icon = GFX_focus_generic_strike_at_democracy1
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_14
+		}
+		x = 41
+		y = 2
+
+	}
+	focus = {
+		id = GER_expansion_16
+		icon = GFX_goal_generic_more_territorial_claims
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_14
+		}
+		x = 43
+		y = 2
+
+	}
+	focus = {
+		id = GER_expansion_17
+		icon = GFX_goal_generic_political_pressure
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_14
+		}
+		x = 45
+		y = 2
+
+	}
+	focus = {
+		id = GER_expansion_2
+		icon = GFX_focus_GER_europe
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_1
+		}
+		x = 50
+		y = 1
+
+	}
+	focus = {
+		id = GER_expansion_3
+		icon = GFX_goal_generic_territory_or_war
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_2
+		}
+		x = 48
+		y = 2
+
+	}
+	focus = {
+		id = GER_expansion_4
+		icon = GFX_goal_demand_sudetenland
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_3
+		}
+		x = 48
+		y = 3
+
+	}
+	focus = {
+		id = GER_expansion_5
+		icon = GFX_focus_generic_polish_deal
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_2
+		}
+		x = 50
+		y = 2
+
+	}
+	focus = {
+		id = GER_expansion_6
+		icon = GFX_goal_support_fascism
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_2
+		}
+		x = 52
+		y = 2
+
+	}
+	focus = {
+		id = GER_expansion_7
+		icon = GFX_focus_hun_elect_a_king
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_6
+		}
+		mutually_exclusive = {
+			focus = GER_expansion_8
+		}
+		x = 52
+		y = 3
+
+	}
+	focus = {
+		id = GER_expansion_8
+		icon = GFX_focus_CZE_german_puppet
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_6
+		}
+		mutually_exclusive = {
+			focus = GER_expansion_7
+		}
+		x = 54
+		y = 3
+
+	}
+	focus = {
+		id = GER_expansion_9
+		icon = GFX_focus_ger_revive_kaiserreich
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_7
+			focus = GER_expansion_8
+		}
+		x = 52
+		y = 4
+
+	}
+	focus = {
+		id = GER_expansion_10
+		icon = GFX_goal_tfv_saf_anti_colonialist_crusade
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_9
+		}
+		x = 51
+		y = 5
+
+	}
+	focus = {
+		id = GER_expansion_11
+		icon = GFX_goal_generic_national_unity
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_9
+		}
+		x = 53
+		y = 5
+
+	}
+	focus = {
+		id = GER_expansion_12
+		icon = GFX_focus_rom_royal_dictatorship
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_10
+			focus = GER_expansion_11
+		}
+		x = 52
+		y = 6
+
+	}
+	focus = {
+		id = GER_expansion_13
+		icon = GFX_focus_generic_provoke_border_clashes
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_12
+		}
+		x = 52
+		y = 7
+
+	}
+	focus = {
+		id = GER_expansion_18
+		icon = GFX_goal_unknown
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_1
+		}
+		x = 57
+		y = 1
+
+	}
+	focus = {
+		id = GER_expansion_19
+		icon = GFX_focus_generic_cruiser2
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_18
+		}
+		x = 55
+		y = 2
+
+	}
+	focus = {
+		id = GER_expansion_20
+		icon = GFX_goal_generic_navy_battleship
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_18
+		}
+		x = 57
+		y = 2
+
+	}
+	focus = {
+		id = GER_trade_9
+		icon = GFX_goal_generic_positive_trade_relations
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_8
+		}
+		x = 19
+		y = 13
+
+	}
+	focus = {
+		id = GER_trade_21
+		icon = GFX_focus_chi_cooperation_with_the_nationalists
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_8
+		}
+		mutually_exclusive = {
+			focus = GER_trade_15
+		}
+		x = 9
+		y = 13
+
+	}
+	focus = {
+		id = GER_trade_22
+		icon = GFX_focus_chi_army_reform
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_21
+		}
+		x = 9
+		y = 14
+
+	}
+	focus = {
+		id = GER_trade_16
+		icon = GFX_focus_generic_military_mission
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_15
+		}
+		x = 12
+		y = 14
+
+	}
+	focus = {
+		id = GER_trade_23
+		icon = GFX_focus_generic_self_management
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_22
+		}
+		x = 9
+		y = 15
+
+	}
+	focus = {
+		id = GER_trade_17
+		icon = GFX_focus_prc_remove_chiang_kai_shek
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_16
+		}
+		mutually_exclusive = {
+			focus = GER_trade_19
+		}
+		x = 12
+		y = 15
+
+	}
+	focus = {
+		id = GER_trade_13
+		icon = GFX_focus_generic_rubber
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_12
+		}
+		x = 16
+		y = 14
+
+	}
+	focus = {
+		id = GER_trade_14
+		icon = GFX_goal_generic_oil_refinery
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_13
+		}
+		x = 16
+		y = 15
+
+	}
+	focus = {
+		id = GER_trade_10
+		icon = GFX_focus_generic_tungsten
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_9
+		}
+		x = 19
+		y = 14
+
+	}
+	focus = {
+		id = GER_trade_11
+		icon = GFX_goal_generic_dangerous_deal
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_10
+		}
+		x = 19
+		y = 15
+
+	}
+	focus = {
+		id = GER_trade_18
+		icon = GFX_focus_generic_military_academy
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_17
+		}
+		x = 12
+		y = 16
+
+	}
+	focus = {
+		id = GER_trade_24
+		icon = GFX_focus_generic_destroyer
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_23
+		}
+		x = 9
+		y = 16
+
+	}
+	focus = {
+		id = GER_trade_20
+		icon = GFX_goal_generic_forceful_treaty
+		cost = 10
+		prerequisite = {
+			focus = GER_trade_19
+		}
+		x = 14
+		y = 16
+
+	}
+	focus = {
+		id = GER_army_12
+		icon = GFX_goal_generic_air_fighter
+		cost = 10
+		prerequisite = {
+			focus = GER_army_11
+		}
+		x = 6
+		y = 6
+
+	}
+	focus = {
+		id = GER_army_27
+		icon = GFX_focus_generic_little_entente
+		cost = 10
+		prerequisite = {
+			focus = GER_army_26
+		}
+		x = 3
+		y = 6
+
+	}
+	focus = {
+		id = GER_army_28
+		icon = GFX_goal_generic_construct_military
+		cost = 10
+		prerequisite = {
+			focus = GER_army_27
+		}
+		x = 3
+		y = 7
+
+	}
+	focus = {
+		id = GER_army_13
+		icon = GFX_goal_generic_build_airforce
+		cost = 10
+		prerequisite = {
+			focus = GER_army_12
+		}
+		x = 6
+		y = 7
+
+	}
+	focus = {
+		id = GER_army_24
+		icon = GFX_goal_generic_build_tank
+		cost = 10
+		prerequisite = {
+			focus = GER_army_23
+		}
+		x = 1
+		y = 6
+
+	}
+	focus = {
+		id = GER_army_25
+		icon = GFX_goal_generic_army_doctrines
+		cost = 10
+		prerequisite = {
+			focus = GER_army_24
+		}
+		x = 1
+		y = 7
+
+	}
+	focus = {
+		id = GER_army_15
+		icon = GFX_goal_generic_air_bomber
+		cost = 10
+		prerequisite = {
+			focus = GER_army_14
+		}
+		x = 8
+		y = 6
+
+	}
+	focus = {
+		id = GER_army_16
+		icon = GFX_goal_poland_goal
+		cost = 10
+		prerequisite = {
+			focus = GER_army_15
+		}
+		x = 8
+		y = 7
+
+	}
+	focus = {
+		id = GER_industry_15
+		icon = GFX_focus_focus_generic_industry_1
+		cost = 10
+		prerequisite = {
+			focus = GER_industry_12
+		}
+		x = 31
+		y = 11
+
+	}
+	focus = {
+		id = GER_industry_17
+		icon = GFX_goal_demand_sudetenland
+		cost = 10
+		prerequisite = {
+			focus = GER_industry_13
+		}
+		x = 33
+		y = 11
+
+	}
+	focus = {
+		id = GER_industry_16
+		icon = GFX_goal_generic_construct_civ_factory
+		cost = 10
+		prerequisite = {
+			focus = GER_industry_15
+		}
+		x = 31
+		y = 12
+
+	}
+	focus = {
+		id = GER_industry_18
+		icon = GFX_goal_generic_propaganda
+		cost = 10
+		prerequisite = {
+			focus = GER_industry_17
+		}
+		x = 33
+		y = 12
+
+	}
+	focus = {
+		id = GER_expansion_21
+		icon = GFX_goal_generic_construct_naval_dockyard
+		cost = 10
+		prerequisite = {
+			focus = GER_expansion_18
+		}
+		x = 59
+		y = 2
+
+	}
+}

@@ -67,7 +67,16 @@ set_politics = {
 
 
 
-
+create_country_leader = {
+	name = "Victor Emmanuel III"
+	desc = ""
+	picture = "Victor.dds"
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		
+	}
+}
 create_country_leader = {
 	name = "Benito Mussolini"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"

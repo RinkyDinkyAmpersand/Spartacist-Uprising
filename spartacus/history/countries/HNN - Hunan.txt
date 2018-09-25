@@ -100,6 +100,16 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+create_country_leader = {
+	name = "Cao Kun"
+	desc = ""
+	picture = "Cao.dds"
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		
+	}
+}
 
 set_convoys = 0
 

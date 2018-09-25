@@ -100,6 +100,16 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+create_country_leader = {
+	name = "Liu Xiang"
+	desc = ""
+	picture = "Liu.dds"
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		
+	}
+}
 
 set_convoys = 0
 
