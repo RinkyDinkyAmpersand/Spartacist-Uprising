@@ -623,7 +623,7 @@ create_equipment_variant = {
 	}
 }
 
-1939.1.1 = {
+
 
 	create_equipment_variant = {
 		name = "Series X Shchuka"

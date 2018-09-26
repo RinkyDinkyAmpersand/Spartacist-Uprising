@@ -134,7 +134,7 @@ create_field_marshal = {
 	picture = "Portrait_Japan_Hisaichi_Terauchi.dds"
 	traits = { 
 		offensive_doctrine
-		JAP_samurai_lineage   # hakushaku
+		    # hakushaku
 		politically_connected
 	}
 	skill = 4
@@ -147,7 +147,7 @@ create_field_marshal = {
 create_field_marshal = {
 	name = "Shunroku Hata"
 		picture = "Portrait_Japan_Shunroku_Hata.dds"
-	traits = { offensive_doctrine JAP_samurai_lineage }
+	traits = { offensive_doctrine }
 	skill = 4
 	attack_skill = 3
 	defense_skill = 4
@@ -169,7 +169,7 @@ create_corps_commander = {
 create_corps_commander = {
 	name = "Kanji Ishiwara"
 		picture = "Portrait_Japan_Kanji_Ishiwara.dds"
-	traits = { JAP_samurai_lineage }
+	traits = {   }
 	skill = 1 
 	attack_skill = 1
 	defense_skill = 1
@@ -224,7 +224,7 @@ create_corps_commander = {
 create_corps_commander = {
 	name = "Naruhiko Higashikuni"
 	picture = "Portrait_Japan_Naruhiko_Higashikuni.dds"
-	traits = { JAP_samurai_lineage politically_connected }
+	traits = {   politically_connected }
 	skill = 3 
 	attack_skill = 3
 	defense_skill = 3
@@ -235,7 +235,7 @@ create_corps_commander = {
 create_corps_commander = {
 	name = "Seishiro Itagaki"
 		picture = "Portrait_Japan_Seishiro_Itagaki.dds"
-	traits = { JAP_samurai_lineage inflexible_strategist trait_reckless }
+	traits = {   inflexible_strategist trait_reckless }
 	skill = 3
 	attack_skill = 3
 	defense_skill = 3
@@ -312,7 +312,7 @@ create_corps_commander = {
 create_corps_commander = {
 	name = "Hatazo Adachi"
 		picture = "Portrait_Japan_Hatazo_Adachi.dds"
-	traits = { trickster JAP_samurai_lineage trait_reckless infantry_officer }
+	traits = { trickster   trait_reckless infantry_officer }
 	skill = 2
 	attack_skill = 1
 	defense_skill = 2
@@ -333,7 +333,7 @@ create_corps_commander = {
 create_corps_commander = {
 	name = "Sadao Araki"
 		picture = "Portrait_Japan_Sadao_Araki.dds"
-	traits = { JAP_samurai_lineage }
+	traits = {   }
 	skill = 2
 	attack_skill = 1
 	defense_skill = 2
@@ -420,7 +420,7 @@ create_corps_commander = {
 create_corps_commander = {
 	name = "Kuniaki Koiso"
 		picture = "Portrait_Japan_Kuniaki_Koiso.dds"
-	traits = { JAP_samurai_lineage old_guard politically_connected }
+	traits = {   old_guard politically_connected }
 	skill = 2
 	attack_skill = 2
 	defense_skill = 2
@@ -618,8 +618,7 @@ create_navy_leader = {
 			obsolete = yes
 		}	
 
-	# 1939 Start #			
-	1939.1.1 = {
+
 		### Carrier Variants
 		create_equipment_variant = {
 			name = "Hiryu Class"

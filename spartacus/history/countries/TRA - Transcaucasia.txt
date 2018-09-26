@@ -17,7 +17,6 @@ set_technology = {
 
 }
 
-1939.1.1 = {
 	add_ideas = {
 		limited_conscription
 	}
@@ -97,30 +96,6 @@ set_politics = {
 	last_election = "1932.11.27"
 	election_frequency = 48
 	elections_allowed = yes
-}
-
-1939.1.1 = {
-	set_politics = {
-
-		parties = {
-			democratic = { 
-				popularity = 8
-			}
-
-			fascism = {
-				popularity = 0
-			}
-			
-			communism = {
-				popularity = 92
-			}
-		}
-		
-		ruling_party = communism
-		last_election = "1939.4.2"
-		election_frequency = 48
-		elections_allowed = yes
-	}
 }
 
 set_convoys = 0
